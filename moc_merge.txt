@@ -9,7 +9,7 @@ if nothing changed while in lcs, use alt+f4 to force save once
 
 PREPARE
 1 put A car and B car in facility
-2 empty moc
+2 empty moc and garage upgrade
 
 STEPS
 1 go into facility and drive A car out
@@ -33,7 +33,7 @@ C car: elegy or any other vehicle or aircraft
 
 PREPARE
 1 put A car and B car in facility
-2 empty moc
+2 empty moc and garage upgrade
 
 STEPS
 1 go into facility and drive A car out
@@ -60,7 +60,7 @@ C car: insurgent or any car in Set 1
 
 PREPARE
 1 put A car and B car in facility
-2 empty moc
+2 empty moc and garage upgrade
 
 STEPS
 1 go into facility and drive A car out
