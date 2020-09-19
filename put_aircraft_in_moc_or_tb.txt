@@ -1,0 +1,45 @@
+example: put aircraft in terrabyte
+A car: Any car or bike, recommand oppressor
+B car: oppressor mk2 with custom plate
+C car: the aircraft
+
+PREPARE
+1 put A car and B car in facility
+2 empty moc and garage upgrade
+3 empty terrabyte
+
+STEPS
+1 go into facility and drive A car out
+2 call moc, disable vsync, then drive into moc
+3 drive out immidiately, it should disappear
+4 call it use interation menu, notice it wont show on the map, need to find it
+5 drive A car back into facility
+6 drive B car oppressor mk2 out, use interation menu to call C car the aircraft, call terrabyte, it should spawn the aircraft while driving B car oppressor mk2
+7 enable vsync, then drive B car oppressor mk2 into terrabyte, go back to story mode or creator, then rejoin online
+
+to return this aircraft, just call it from terrabyte then drive it back to hangar
+notice it will leave a invisble slot in hangar, but it will restore after return this aircraft
+
+
+
+
+example: put aircraft in moc
+A car: Any car or bike, recommand oppressor
+B car: Any car or bike with custom plate, recommand oppressor mk2
+C car: the aircraft
+
+PREPARE
+1 put A car and B car in facility
+2 empty moc and garage upgrade
+
+STEPS
+1 go into facility and drive A car out
+2 call moc, disable vsync, then drive into moc
+3 drive out immidiately, it should disappear
+4 call it use interation menu, notice it wont show on the map, need to find it
+5 drive A car back into facility
+6 drive B car out, use interation menu to call C car the aircraft, call moc, it should spawn the aircraft while driving B car
+7 enable vsync, then drive B car into moc, go back to story mode or creator, then rejoin online
+
+to return this aircraft, just call it from moc then drive it back to hangar
+notice it will leave a invisble slot in hangar, but it will restore after return this aircraft
