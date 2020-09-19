@@ -1,11 +1,11 @@
-example: put aircraft in terrabyte
+Put aircraft in terrabyte
 A car: Any car or bike, recommand oppressor
 B car: oppressor mk2 with custom plate
-C car: the aircraft
+C car: any aircraft
 
 PREPARE
 1 put A car and B car in facility
-2 empty moc and garage upgrade
+2 empty moc with garage upgrade
 3 empty terrabyte
 
 STEPS
@@ -23,14 +23,16 @@ notice it will leave a invisble slot in hangar, but it will restore after return
 
 
 
-example: put aircraft in moc
+
+
+Put aircraft in moc
 A car: Any car or bike, recommand oppressor
 B car: Any car or bike with custom plate, recommand oppressor mk2
-C car: the aircraft
+C car: any aircraft
 
 PREPARE
 1 put A car and B car in facility
-2 empty moc and garage upgrade
+2 empty moc with garage upgrade
 
 STEPS
 1 go into facility and drive A car out
