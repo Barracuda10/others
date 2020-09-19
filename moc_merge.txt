@@ -3,9 +3,7 @@ A car: Any car or bike, recommand oppressor
 B car: F1 car with stock F1 Wheel and custom plate
 C car: any other vehicle
 
-use ifruit to put a custom plate on f1 car
-or put F1 car as C Car, a car have custom plate as B car and do this glitch once
-if nothing is changed while in lcs, use alt+f4 to force save once
+use ifruit to put a custom plate on f1 car or use copy custom plate methods
 
 PREPARE
 1 put A car and B car in facility
@@ -27,6 +25,25 @@ STEPS
 
 
 
+Copy custom plate to any vehicle
+A car: Any car or bike, recommand oppressor
+B car: the car have the custom plate
+C car: any other vehicle
+
+PREPARE
+1 put A car and B car in facility
+2 empty moc with garage upgrade
+
+STEPS
+all other steps is the same to put F1 wheel on vehicle except step 8, 9, 10
+8 after drive it out go to los santos custom, don't change anything
+9 then drive out, press alt+f4 to force the game save, wait the yellow circle complete saving
+10 go back to story mode or creator, then rejoin online
+
+
+
+
+
 
 Put benny wheel on any vehicle
 A car: Any car or bike, recommand oppressor
@@ -38,7 +55,7 @@ PREPARE
 2 empty moc with garage upgrade
 
 STEPS
-all other steps is the same to put F1 wheel on any vehicle except 8
+all other steps is the same to put F1 wheel on vehicle except step 8
 8 drive this car to benny, change the wheel and wheel color to the one you want
 
 
@@ -61,7 +78,7 @@ PREPARE
 2 empty moc with garage upgrade
 
 STEPS
-all other steps is the same to put F1 wheel on any vehicle except 8
+all other steps is the same to put F1 wheel on vehicle except step 8
 8 drive this car to los santos custom, change the livery to the one you want
 
 change the livery on vagrant in Set 2 (purple in sheet) , will copy the correspond livery number to insurgent in Set 1 (green in sheet)
