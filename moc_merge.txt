@@ -47,6 +47,11 @@ all other steps is the same to put F1 wheel on any vehicle except 8
 
 
 Put rare livery on any car in Set 1 or Set 2
+
+See Set 1 and Set 2 here
+Livery Sheets
+https://docs.google.com/spreadsheets/d/1CV8d9A1x55ZDoJ-Q2Bslkek_K6UbqaBzvODG52HHHCM/edit#gid=0
+
 A car: Any car or bike, recommand oppressor
 B car: vagrant or zhaba or hotring sabre with all livery unlocked or any car in Set 2 with custom plate
 C car: any car in Set 1 or Set 2
