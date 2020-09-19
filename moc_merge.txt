@@ -35,7 +35,7 @@ PREPARE
 2 empty moc with garage upgrade
 
 STEPS
-all other steps is the same to put F1 wheel on vehicle except step 8, 9, 10
+all other steps are the same to put F1 wheel on vehicle except step 8, 9, 10
 8 after drive it out go to los santos custom, don't change anything
 9 then drive out, press alt+f4 to force the game save, wait the yellow circle complete saving
 10 go back to story mode or creator, then rejoin online
@@ -55,7 +55,7 @@ PREPARE
 2 empty moc with garage upgrade
 
 STEPS
-all other steps is the same to put F1 wheel on vehicle except step 8
+all other steps are the same to put F1 wheel on vehicle except step 8
 8 drive this car to benny, change the wheel and wheel color to the one you want
 
 
@@ -78,7 +78,7 @@ PREPARE
 2 empty moc with garage upgrade
 
 STEPS
-all other steps is the same to put F1 wheel on vehicle except step 8
+all other steps are the same to put F1 wheel on vehicle except step 8
 8 drive this car to los santos custom, change the livery to the one you want
 
 change the livery on vagrant in Set 2 (purple in sheet) , will copy the correspond livery number to insurgent in Set 1 (green in sheet)
